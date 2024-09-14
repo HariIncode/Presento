@@ -8,7 +8,6 @@ This repository contains the project files created during my internship, includi
 - [Project Structure](#project-structure)
 - [Webpage Details](#webpage-details)
 - [Figma Design Details](#figma-design-details)
-- [How to Run the Project](#how-to-run-the-project)
 - [Contact Information](#contact-information)
 
 ## Overview
@@ -24,7 +23,7 @@ This project includes:
 
 ## Project Structure
 
-
+├── webpage/ │ ├── index.html │ ├── css/ │ │ └── styles.css │ ├── js/ │ │ └── script.js │ └── assets/ │ └── images/ ├── design/ │ └── project-figma-file.fig └── README.md
 
 ## Webpage Details
 The webpage features:
@@ -42,17 +41,6 @@ The Figma file consists of:
 1. **Wireframes**: Initial design layout sketches.
 2. **UI Components**: Buttons, forms, icons, and navigation.
 3. **Final Prototype**: A high-fidelity, interactive design.
-
-## How to Run the Project
-1. **Webpage**:
-   - Clone the repository:
-     ```bash
-     git clone https://github.com/yourusername/internship-project.git
-     ```
-   - Navigate to the `webpage/` folder and open `index.html` in your browser.
-
-2. **Figma Design**:
-   - The Figma file is located in the `design/` folder. Open it using the Figma app or upload it to [Figma](https://www.figma.com).
 
 ## Contact Information
 Feel free to reach out for questions or feedback:
